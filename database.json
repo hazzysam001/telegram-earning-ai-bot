@@ -1,0 +1,20 @@
+{
+  "users": [],
+  "tasks": [],
+  "deposits": [],
+  "withdrawals": [],
+  "advertisements": [],
+  "adminSettings": {
+    "bankDetails": {
+      "accountName": "Account Name",
+      "accountNumber": "1234567890",
+      "bankName": "Bank Name"
+    }
+  },
+  "lastId": {
+    "task": 0,
+    "deposit": 0,
+    "withdrawal": 0,
+    "ad": 0
+  }
+}
